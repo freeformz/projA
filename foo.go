@@ -1,4 +1,4 @@
-package projb
+package projB
 
 const (
 	PROJB = true
